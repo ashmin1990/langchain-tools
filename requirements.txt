@@ -52,3 +52,4 @@ tiktoken
 wikipedia
 youtube-transcript-api
 duckduckgo-search
+ddgs
