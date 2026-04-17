@@ -22,6 +22,9 @@ langchain-huggingface
 transformers
 huggingface-hub
 
+# Chroma DB
+langchain-chroma
+
 # Deep Learning Libraries
 langchain_openai
 torch
@@ -48,6 +51,4 @@ bs4
 tiktoken
 wikipedia
 youtube-transcript-api
-
-# Chroma DB
-langchain-chroma
+duckduckgo-search
